@@ -30,11 +30,13 @@ Nesta representação é fica visivel que já na segunda sequencia muito embora 
 	<img src="Grafo1.PNG" height="50%" width="50%">
 </p
 
-Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas entretanto não foram reproduzidas
+
+Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas entretanto não foram reproduzidas, talvês por falta de uma visão estrutura das solicitações dos ouvintes
 
 <p align="center">
 	<img src="Grafo2.PNG" height="50%" width="50%">
 </p
 
 
+Com base nestas visualizações simples é possível perceber vários tipos de aplicações úteis
 
