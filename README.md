@@ -14,7 +14,7 @@ A fim de melhorar a interação com os ouvintes de uma rádio para maximizar a q
 3. Utilizar o pacote Networkx para a estruturação dinâmica do grafo, da seguinte forma:
     - (vertíce vermelha) - Representa a escolha do coordenador musical
     - (vertice azul) - Representa as solicitações dos ouvintes
-    - Nas vértices está representado o número de solicitações em cada sequencia
+    - Nas arestas está representado o número de solicitações em cada sequencia
 
 ## Solução
 
@@ -28,6 +28,12 @@ Nesta representação é fica visivel que já na segunda sequencia muito embora 
 
 <p align="center">
 	<img src="Grafo1.PNG" height="50%" width="50%">
+</p
+
+Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas entretanto não foram reproduzidas
+
+<p align="center">
+	<img src="Grafo2.PNG" height="50%" width="50%">
 </p
 
 
