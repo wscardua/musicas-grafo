@@ -43,8 +43,8 @@ Com base nestes exemplos simples é possível perceber os vários tipos de aplic
 ### Algumas Considerações
 
 - Os dados base para esta publicação são oriundo de algorimo feiti em python de escolha aleatória;
-- O artigo não esgota o tema ou tem a pretenção em se aprofundar na base teoria dos Grafos
-- O artigo apresenta uma solução simples, bem longe de outras 'features' que poderiam ser utilizadas como Centralidade, clusters, etc... 
+- O artigo não esgota o tema ou tem a pretenção em se aprofundar na base teorica dos Grafos
+- O artigo apresenta uma solução simples e longe de outras 'features' que poderiam ser utilizadas como Centralidade, clusters, etc... 
 
 
 
