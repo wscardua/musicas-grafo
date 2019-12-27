@@ -34,7 +34,7 @@ Nesta outra representação é possível ver que as músicas 'Heart Of The Sunri
 </p
 
 
-Com base nestes exemplos simples é possível perceber os vários tipos de aplicações, insights e estratégias que a utilização de Grafos pode proporcionar e se bem utilizado pode trazer um bom engajamento do público alvo e consequentemente campanhas publicitárias mais abrangentes, com base neste entendimento dou como válido a hipótese inicialmente levantada.
+Com base nestes exemplos simples é possível perceber os vários tipos de aplicações, insights e definição de estratégias que a utilização de Grafos pode proporcionar, e se bem utilizado pode trazer um bom engajamento do público alvo e consequentemente campanhas publicitárias mais abrangentes e direcionadas, com base neste entendimento dou como válido a hipótese inicialmente levantada.
 
 ### Algumas Considerações
 
