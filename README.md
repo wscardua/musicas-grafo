@@ -38,7 +38,7 @@ Com base nestes exemplos simples é possível perceber os vários tipos de aplic
 
 ### Algumas Considerações
 
-- Os dados base para esta publicação são oriundos de algoritmo feito em python de escolha aleatória;
+- Os dados base para esta publicação são oriundos de algoritmo feito em python de escolha aleatória e utilizado para uma introdução inicial a teória dos grafos;
 - O artigo não esgota o tema ou tem a pretensão em se aprofundar na base teórica dos Grafos
 - O artigo apresenta uma solução simples e longe de outras 'features' que poderiam ser utilizadas como centralidade, clusters, etc...
 
