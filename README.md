@@ -14,7 +14,7 @@ A fim de melhorar a interação e engajamento dos ouvintes de uma rádio e conse
 3. Utilizar o pacote Networkx para a estruturação dinâmica do grafo, da seguinte forma:
     - (vértice vermelha) - Representa a escolha do coordenador musical
     - (vértice azul) - Representa as solicitações dos ouvintes
-    - Nas arestas está representado o número de solicitações de cada sequencia
+    - Nas arestas está representado o número de solicitações de cada sequência
 
 ## Solução
 
@@ -24,7 +24,7 @@ Utilização da função DiGraph() do pacote Networkx para modelar um digrafo (g
 
 ## Resultado
 
-Nesta representação é fica visível que já na segunda sequencia muito embora a maioria dos pedidos estivessem apontando para a música 'Love Bluzz' a rádio reproduziu outra com menor peso e este comportamento foi replicado para várias outras músicas das sequencias posteriores, desta forma a programação tende a ficar mais distante do público
+Nesta representação é fica visível que já na segunda sequência muito embora a maioria dos pedidos estivessem apontando para a música 'Love Bluzz' a rádio reproduziu outra com menor peso e este comportamento foi replicado para várias outras músicas das sequências posteriores, desta forma a programação tende a ficar mais distante do público
 
 <p align="center">
 	<img src="Grafo1.PNG" height="50%" width="50%">
