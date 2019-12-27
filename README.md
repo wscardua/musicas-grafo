@@ -27,14 +27,14 @@ Nesta representação é fica visível que já na segunda sequência muito embor
 </p
 
 
-Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas, entretanto não foram reproduzidas, se a rádio contasse com uma visitação estruturada poderia encerrar sua programação tocando uma ou até as duas músicas recorrentes o que agradaria aos ouvintes.
+Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas, entretanto não foram reproduzidas, se a rádio contasse com uma visitação estruturada baseada em grafos poderia encerrar sua programação tocando uma ou até as duas músicas recorrentes o que agradaria e muito aos ouvintes (entre outras estratégias)
 
 <p align="center">
 	<img src="Grafo2.PNG" height="50%" width="50%">
 </p
 
 
-Com base nestes exemplos simples é possível perceber os vários tipos de aplicações e insights que a utilização de Grafos pode proporcionar e se bem utilizado pode trazer um bom engajamento do público alvo e consequentemente campanhas publicitárias mais abrangentes, com base neste entendimento dou como válido a hipótese inicialmente levantada.
+Com base nestes exemplos simples é possível perceber os vários tipos de aplicações, insights e estratégias que a utilização de Grafos pode proporcionar e se bem utilizado pode trazer um bom engajamento do público alvo e consequentemente campanhas publicitárias mais abrangentes, com base neste entendimento dou como válido a hipótese inicialmente levantada.
 
 ### Algumas Considerações
 
