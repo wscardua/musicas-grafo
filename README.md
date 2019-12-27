@@ -4,8 +4,6 @@ Grafo/Python/Metworkx
 ## Motivação
 A fim de melhorar a interação e engajamento dos ouvintes de uma rádio e consequentemente tonar as campanhas publicitárias mais eficientes, seria possível através da teoria dos grafos identificar como se dá o relacionamento das músicas tocadas em função das músicas solicitadas de forma a identificar possíveis obras muito solicitadas que foram deixadas ao acaso assim como sugerir proativamente uma programação baseada no histórico de solicitações ? 
 
-## Desafio
-
 ## Abordagem
 1. Criar um algoritmo em python para simular uma sequência de programação de músicas aleatórias dentro de uma amostra de 100 músicas a serem tocadas na rádio (Coordenador Musical)
 
@@ -19,8 +17,6 @@ A fim de melhorar a interação e engajamento dos ouvintes de uma rádio e conse
 ## Solução
 
 Utilização da função DiGraph() do pacote Networkx para modelar um digrafo (grafo direcionado)
-
-## Estrutura da Solução
 
 ## Resultado
 
@@ -44,7 +40,7 @@ Com base nestes exemplos simples é possível perceber os vários tipos de aplic
 
 - Os dados base para esta publicação são oriundos de algoritmo feito em python de escolha aleatória;
 - O artigo não esgota o tema ou tem a pretensão em se aprofundar na base teórica dos Grafos
-- O artigo apresenta uma solução simples e longe de outras 'features' que poderiam ser utilizadas como Centralidade, clusters, etc...
+- O artigo apresenta uma solução simples e longe de outras 'features' que poderiam ser utilizadas como centralidade, clusters, etc...
 
 
 
