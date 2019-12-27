@@ -27,7 +27,7 @@ Nesta representação é fica visível que já na segunda sequência muito embor
 </p
 
 
-Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas, entretanto não foram reproduzidas, se a rádio contasse com uma visitação estruturada baseada em grafos poderia encerrar sua programação tocando uma ou até as duas músicas recorrentes o que agradaria e muito aos ouvintes (entre outras estratégias)
+Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas, entretanto não foram reproduzidas, se a rádio contasse com uma visitação estruturada baseada em grafos poderia incluir-las em sua programação de forma dimâmica, o que agradaria e muito aos ouvintes
 
 <p align="center">
 	<img src="Grafo2.PNG" height="50%" width="50%">
