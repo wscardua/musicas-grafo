@@ -31,12 +31,20 @@ Nesta representação é fica visivel que já na segunda sequencia muito embora 
 </p
 
 
-Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas entretanto não foram reproduzidas, talvês por falta de uma visão estrutura das solicitações dos ouvintes
+Nesta outra representação é possível ver que as músicas 'Heart Of The Sunrinse' e 'America' foram recorrentemente solicitadas entretanto não foram reproduzidas, se a rádio contasse com uma visuação estruturada poderia encerrar sua programação tocando uma ou até as duas musicas recorrentes o que agradaria aos ouvintes.
 
 <p align="center">
 	<img src="Grafo2.PNG" height="50%" width="50%">
 </p
 
 
-Com base nestas visualizações simples é possível perceber vários tipos de aplicações úteis
+Com base nestes exemplos simples é possível perceber os vários tipos de aplicações e insights que a utilização de Grafos pode proporcionar, se bem utilizado pode trazer um bom engajamento do público alvo.
+
+### Algumas Considerações
+
+- Os dados base para esta publicação são oriundo de algorimo feiti em python de escolha aleatória;
+- O artigo não esgota o tema ou tem a pretenção em se aprofundar na base teoria dos Grafos
+- O artigo apresenta uma solução simples, bem longe de outras 'features' que poderiam ser utilizadas como Centralidade, clusters, etc... 
+
+
 
